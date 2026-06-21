@@ -52,7 +52,7 @@ urban_heat_island_pinn/
 
 ## How to Run
 
-1. Clone the repository.
-2. Open `notebooks/1D DeepXDE PINN.ipynb` in Google Colab.
+1. Open `notebooks/1D DeepXDE PINN.ipynb` in Google Colab.
+2. Change the runtime type to **T4 GPU** for faster model training (`Runtime` → `Change runtime type` → `T4 GPU` → `Save`)
 3. Run all cells sequentially.
 4. The notebook will load in the ECOSTRESS dataset from the `data/` folder and generate all the figures used in the study.
