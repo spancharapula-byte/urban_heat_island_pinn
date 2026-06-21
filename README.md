@@ -54,5 +54,5 @@ urban_heat_island_pinn/
 
 1. Clone the repository.
 2. Open `notebooks/1D DeepXDE PINN.ipynb` in Google Colab.
-3. Run all cells sequentially
+3. Run all cells sequentially.
 4. The notebook will load in the ECOSTRESS dataset from the `data/` folder and generate all the figures used in the study.
